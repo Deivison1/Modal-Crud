@@ -9,21 +9,21 @@
     <li>JAVASCRIP</li>
 </ul>
   
-<p>Pricipais caracteristicas de um CRUD</p>
+<p>Pricipais caracteristicas de um CRUD.</p>
 
  <p>São as quatro operações básicas em banco de dados, são elas:</p>
 <ul>
   <li>CREATE</li>
-  <p>Criar</p>
+    <p>Criar</p>
   
   <li>READ</li>
-  <p>Ler</p>
+    <p>Ler</p>
   
   <li>UPDATE</li>
-  <p>Atualizar</p>
+    <p>Atualizar</p>
   
   <li>DELETE</li>
-  <p>Excluir</p>
+    <p>Excluir</p>
   
 </ul>
 
