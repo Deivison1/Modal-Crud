@@ -33,7 +33,7 @@
  
  <p>
    Cadastrar clientes no localStorage usando <strong>JAVASCRIPT<strong>.
-   O usuário será capaz de inserir seus dados como: nome, e-mail, celular, cidade. Com a possibilidade de editar e excluir seu cadadastro.
+   O usuário será capaz de inserir seus dados como: nome, e-mail, celular, cidade. Com a possibilidade de editar e excluir seu cadastro.
  </p>
 
  <p>
@@ -44,5 +44,5 @@
    É possível limpar os campos caso feche o formulário ou depois que concluiu o cadastro.
  </p>
   
-  
+   <a href="" alt="">Link da aplicação</a>
   
