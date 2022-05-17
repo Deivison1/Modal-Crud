@@ -2,13 +2,12 @@
 
 <h1>Criação de Modal com as caracteristicas de um CRUD</h1>
 
-<h2> Linguagens utilizadas<h2>
-  
-<ul>
+  <h2>Linguagens utilizadas<h2>
+  <ul>
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JAVASCRIP</li>
-<ul>
+</ul>
   
 <p>Pricipais caracteristicas de um CRUD</p>
 
