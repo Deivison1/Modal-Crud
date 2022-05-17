@@ -11,14 +11,20 @@
   
 <p>Pricipais caracteristicas de um CRUD</p>
 
+ <p>São as quatro operações básicas em banco de dados, são elas:</p>
 <ul>
   <li>CREATE</li>
+  <p>Criar</p>
   
   <li>READ</li>
+  <p>Ler</p>
   
   <li>UPDATE</li>
+  <p>Atualizar</p>
   
   <li>DELETE</li>
+  <p>Excluir</p>
+  
 </ul>
 
  <p> 
