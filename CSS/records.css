@@ -24,7 +24,7 @@
     text-align: center;
 }
 
-.records tr:hover{
+.records tr{
     background-color: var(--secundary-color);
 }
 
