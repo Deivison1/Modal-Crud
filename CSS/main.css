@@ -5,7 +5,7 @@
 }
 
 :root{
-    --primary-color: #FFBA00;
+    --primary-color: rgb(100, 135, 205);
     --secundary-color: #FFF1CC;
     --shadow-color: #CCC;
     --text-color: #FFF;
